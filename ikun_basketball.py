@@ -14,7 +14,7 @@ browser.set_window_size(1400, 900)
 
 book = xlwt.Workbook(encoding='utf-8', style_compression=0)
 
-sheet = book.add_sheet('蔡徐坤篮球', cell_overwrite_ok=True)
+sheet = book.add_sheet('蔡徐坤篮球？？', cell_overwrite_ok=True)
 sheet.write(0, 0, '名称')
 sheet.write(0, 1, '地址')
 sheet.write(0, 2, '描述')

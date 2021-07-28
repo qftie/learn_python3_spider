@@ -18,6 +18,7 @@ url = 'https://passport.bilibili.com/login'
 def mergy_Image(image_file, location_list):
     """
     将原始图片进行合成
+    阿思翠
     :param image_file: 图片文件
     :param location_list: 图片位置
     :return: 合成新的图片
